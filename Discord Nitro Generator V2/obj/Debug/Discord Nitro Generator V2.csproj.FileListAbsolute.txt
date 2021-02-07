@@ -1,0 +1,7 @@
+C:\Users\siriu\source\repos\Discord Nitro Generator V2\Discord Nitro Generator V2\bin\Debug\Discord Nitro Generator V2.exe.config
+C:\Users\siriu\source\repos\Discord Nitro Generator V2\Discord Nitro Generator V2\bin\Debug\Discord Nitro Generator V2.exe
+C:\Users\siriu\source\repos\Discord Nitro Generator V2\Discord Nitro Generator V2\bin\Debug\Discord Nitro Generator V2.pdb
+C:\Users\siriu\source\repos\Discord Nitro Generator V2\Discord Nitro Generator V2\obj\Debug\Discord Nitro Generator V2.csprojAssemblyReference.cache
+C:\Users\siriu\source\repos\Discord Nitro Generator V2\Discord Nitro Generator V2\obj\Debug\Discord Nitro Generator V2.csproj.CoreCompileInputs.cache
+C:\Users\siriu\source\repos\Discord Nitro Generator V2\Discord Nitro Generator V2\obj\Debug\Discord Nitro Generator V2.exe
+C:\Users\siriu\source\repos\Discord Nitro Generator V2\Discord Nitro Generator V2\obj\Debug\Discord Nitro Generator V2.pdb
